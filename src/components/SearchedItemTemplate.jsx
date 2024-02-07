@@ -1,4 +1,4 @@
-import { data } from "autoprefixer";
+
 
 const SearchedItemTemplate = ({data}) => {
     function createMarkup(html) {
